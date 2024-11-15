@@ -86,7 +86,6 @@ public class Main {
         System.out.println("Información Delantero:");
         delantero.mostrarInfo();
 
-
         scanner.close();
     }
 }
