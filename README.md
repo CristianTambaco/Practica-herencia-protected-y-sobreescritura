@@ -1,4 +1,5 @@
-Enunciado del Problema
+Enunciado del Problema:
+
 Gestionar información de jugadores de fútbol de distintas posiciones: portero, defensa y delantero. La aplicación debe contar con una estructura de herencia que permita reutilizar atributos y métodos comunes entre los jugadores y definir atributos específicos según su rol en el campo.
 La estructura será la siguiente:
 
